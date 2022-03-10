@@ -1,3 +1,3 @@
 # Site-Basico
 
-Este foi o projeto em que aprendi a fazer um site básico
+Este foi o projeto em que aprendi a construir um site básico com HTML / CSS
