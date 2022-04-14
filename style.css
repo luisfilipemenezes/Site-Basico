@@ -175,19 +175,20 @@ a:hover{
     }
 
     body{
-        width: 414px;
+        width: auto;
     }
 
     .logo{
+        overflow: hidden;
         align-items: center;
     }
 
     header{
-        width: 414px;
+        width: auto;
         height: auto;
     }
     .container{
-        width: 300px;
+        width: calc(100vw - 20px);
     }
 
     .ome , .ocupacao , a{
@@ -222,6 +223,20 @@ a:hover{
         height: 250px;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
